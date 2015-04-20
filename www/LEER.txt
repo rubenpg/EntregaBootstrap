@@ -1,0 +1,5 @@
+El Login, Register y el Share no están hechos porque la entrega no lo pide, ahora estoy haciendólo a parte, pero la entrega ya está hecha.
+
+Es básicamente todo esto, a mi todo me funciona, pruébalo a ver.
+
+Marc
